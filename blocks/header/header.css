@@ -4,7 +4,7 @@
 @import url(./__subtitle/header__subtitle.css);
 @import url(./__title/header__title.css);
 @import url(../rotation/rotation.css);
-@import url(./logo/logo.css);
+
 
 
 .header {
@@ -15,6 +15,7 @@
     display: flex;
     background-color: #f2f2f2;
     overflow: hidden;
+    position: relative;
     /* выше установили ограничения для секции */
   }
 
